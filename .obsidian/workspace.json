@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4998044fd4f2a197",
+        "id": "ddf41e7b15b8b506",
         "type": "tabs",
         "children": [
           {
-            "id": "9dfb8e6395bad619",
+            "id": "3d12d24db176d40b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING_STYLE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9dfb8e6395bad619",
+  "active": "cdb5d4251de25d6b",
   "lastOpenFiles": [
     "README.md",
     "CODING_STYLE.md",
